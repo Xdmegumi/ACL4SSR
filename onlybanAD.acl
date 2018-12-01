@@ -1190,6 +1190,8 @@
 (^|\.)zhjfad\.com$
 (^|\.)zqzxz\.com$
 (^|\.)zzsx8\.com$
+(^|\.)share.dmhy.org/*.gif*
+(^|\.)share.dmhy.org/*.jpg*
 
 # 广告联盟-国外****************
 (^|\.)ad-stir\.com$

@@ -1318,11 +1318,14 @@
 (^|\.)javfinder\.cc$
 (^|\.)youporn\.com$
 (^|\.)pornhub\.com$
+<<<<<<< HEAD
 (^|\.)tumblr\.com$
 (^|\.)toppornsites\.com$
 (^|\.)2kporn4u\.com$
 (^|\.)share.dmhy.org/mogon1.gif?5$
 (^|\.)javfast\.net$
+=======
+>>>>>>> parent of 8ba8356... Update onlybanAD.acl
 
 ### 运营商广告
 (^|\.)\w\w(\w|)dnserror\d(\d|)\.wo\.com\.cn
